@@ -1,0 +1,49 @@
+
+# Spring Boot / Maven
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Keep Maven wrapper configuration
+!.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / Spring Tool Suite
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.apt_generated
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+application-local.properties
